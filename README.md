@@ -1,5 +1,6 @@
 # Prueba_tecnica
-Este repositorio posee las notebooks utilizadas para responder a las siguientes consignas
+Este repositorio posee las notebooks utilizadas para resolver la prueba técnica para Capgemini en España. 
+
 ## Consignas 
 Parte 1: Clasificación
 
